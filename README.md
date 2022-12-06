@@ -2,7 +2,7 @@
 
  Kadane's Algorithm is an iterative dynamic programming algorithm that is able to find the maximum sum of a contiguous subarray in an array with a runtime of O(n).
  
- <h2> Inplemented in </h2>
+ <h2> Implemented in </h2>
  - JavaScript
  
  <h2> Articles </h2>
