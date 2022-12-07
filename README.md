@@ -8,7 +8,8 @@
  <h2> Articles </h2>
  
  - https://dev.to/alisabaj/kadane-s-algorithm-the-maximum-subarray-problem-c31
+ - https://www.scaler.com/topics/kadanes-algorithm/
  
- <h2> Youtube Tutorials </h2>
+ <h2> Video Tutorials </h2>
  
  - CS Dojo - https://youtu.be/86CQq3pKSUw 
