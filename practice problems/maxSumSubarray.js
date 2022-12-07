@@ -12,10 +12,7 @@
 // getMaxSubSum([-2, -1, 1, 2]) == 3
 // getMaxSubSum([100, -9, 2, -3, 5]) == 100
 // getMaxSubSum([1, 2, 3]) == 6 (take all)
-// If all items are negative, it means that we take none (the subarray is empty), so the sum is zero:
-
-// getMaxSubSum([-1, -2, -3]) = 0
-// Please try to think of a fast solution: O(n2) or even O(n) if you can.
+// getMaxSubSum([-1, -2, -3]) = -1
 
 function getMaxSubSum(arr){
     let maxCurrent = maxGlobal = arr[0];
